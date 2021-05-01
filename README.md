@@ -4,6 +4,8 @@ Name : Chinmayee
 
 Roll No. : ME20B053
 
+Contact : 8446931119
+
 Previous Experience : I an well acquainted with the basics of c, c++, python and java language. I have worked with a few libraries under python like pygame, opencv, Beautiful Soup, Selenium, matplotlib, etc. I am also familiar with basic linux commands.
 
 Current PoRs : MEA Coordinator under spons, pr and events team.
