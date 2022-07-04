@@ -1,3 +1,0 @@
-We can feed in enough experimental data into the model so that it can predict its motion based on that during severe circumstances. We can create various scenarios for the model and work on it, using them. 
-We can install more powerful sensors for weather uncertainities.
-We can slow down the robot's motion when it approaches some unfamiliar terrain so that it has enough time to contemplate and come up with the best possible approach. 
